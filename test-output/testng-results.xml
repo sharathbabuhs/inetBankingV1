@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-21T06:56:34Z" name="inetBankingV1" finished-at="2022-12-21T06:57:07Z" duration-ms="32381">
+    <groups>
+    </groups>
+    <test started-at="2022-12-21T06:56:34Z" name="BankingApp Test" finished-at="2022-12-21T06:57:07Z" duration-ms="32381">
+      <class name="com.inetBankingV1.testcases.TC_AddCoustmrTest_003">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetBankingV1.testcases.TC_AddCoustmrTest_003@69f1a286]" started-at="2022-12-21T06:56:35Z" name="setup" finished-at="2022-12-21T06:56:46Z" duration-ms="10939" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addNewCstmr()[pri:0, instance:com.inetBankingV1.testcases.TC_AddCoustmrTest_003@69f1a286]" started-at="2022-12-21T06:56:46Z" name="addNewCstmr" finished-at="2022-12-21T06:57:06Z" duration-ms="20176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCstmr -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.inetBankingV1.testcases.TC_AddCoustmrTest_003@69f1a286]" started-at="2022-12-21T06:57:07Z" name="teardown" finished-at="2022-12-21T06:57:07Z" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.inetBankingV1.testcases.TC_AddCoustmrTest_003 -->
+    </test> <!-- BankingApp Test -->
+  </suite> <!-- inetBankingV1 -->
+</testng-results>

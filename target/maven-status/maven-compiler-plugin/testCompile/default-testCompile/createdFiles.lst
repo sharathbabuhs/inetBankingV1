@@ -1,0 +1,9 @@
+com\inetBankingV1\utilities\Excelutil.class
+com\inetBankingV1\PageObject\LoginPage.class
+com\inetBankingV1\testcases\TC_AddCoustmrTest_003.class
+com\inetBankingV1\utilities\Readconfig.class
+com\inetBankingV1\testcases\TCLoginDDT_002.class
+com\inetBankingV1\PageObject\AddcustmrPage.class
+com\inetBankingV1\utilities\Reporting.class
+com\inetBankingV1\testcases\Baseclass.class
+com\inetBankingV1\testcases\TC_Logintest_001.class
